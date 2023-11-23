@@ -2,7 +2,7 @@
 MotorInfo: it contain all the information like who's start the motor and who's stop the motor and how many times motor start today (start and stop time).
 
 To run this project into local
-1. git clone this repo
+1. git clone the repo
 2. open two terminal
 3. 1st termimal for frontend and 2nd terminal for backend
 4. run "npm start" command into 1st terminal and "node server.js" into second command
